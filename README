@@ -1,5 +1,6 @@
 This is modified fork of Source SDK repository.
-It's forked in order to bring Visual Studio 2015 compatibility with SDK 2013. There's still several issues with migrations, so use on your own risk.
+It's forked in order to bring Visual Studio 2015 compatibility with SDK 2013. There's still several issues with migrations, 
+so use on your own risk.
                
                SOURCE 1 SDK LICENSE
 
